@@ -1,0 +1,37 @@
+{
+  "project": "CubeNet",
+  "format_version": 1,
+  "hash_algorithm": "SHA-256",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4517,
+      "sha256": "6832366ab1a9782144bd9eb2c195b083d7485c8f825670d21e72b37cba83499b"
+    },
+    {
+      "path": "app.mjs",
+      "bytes": 8835,
+      "sha256": "a015753f5e5d4c98ad39c27649e91df97d554cc0a913b550c5d0d4dceddd04a1"
+    },
+    {
+      "path": "engine.mjs",
+      "bytes": 3387,
+      "sha256": "ef276921cae1c0f51b88acaed9f0435a1f5d9751bd55b15eb4e8f43b7612a95f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 2885,
+      "sha256": "c0fc10b60c1bb9c017d13ad18c1c7599fbb8fe5a73a52fd3fdeece9274cb702e"
+    },
+    {
+      "path": "style.css",
+      "bytes": 6633,
+      "sha256": "326993046de7df3fe8db6a962e4bea68ec37648325677a499061cb256ddff01b"
+    },
+    {
+      "path": "test-engine.mjs",
+      "bytes": 6510,
+      "sha256": "cf477f09213480cf1d861d3e4890421cd906be871318f8df86edf6ecad61f07c"
+    }
+  ]
+}
